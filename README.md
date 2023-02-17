@@ -15,7 +15,7 @@ _Collaborate and work together on GitHub._
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
   The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
+  Do not use quotes on the <details> tag attributes
 -->
 
 <details id=0>
